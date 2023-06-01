@@ -61,13 +61,14 @@ section {
 }
 
 .hero-section {
-    height: 550px;
-    min-height: 550px;
+    height: 650px;
+    min-height: 650px;
     background-position: top;
     background-size: contain;
     background-repeat: no-repeat;
     background-image: url('./images/bg-header-desktop.png');
-}
+    padding-top: 100px;
+  }
 
 .Clipboard_secction {
     height: 100%;
