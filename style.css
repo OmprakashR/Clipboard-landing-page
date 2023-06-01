@@ -59,7 +59,7 @@ section {
     margin-left: auto;
 
 }
-
+.hide{display: none;}
 .hero-section {
     height: 650px;
     min-height: 650px;
